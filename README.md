@@ -29,3 +29,9 @@ This project classifies handwritten digits from the MNIST dataset using a neural
 ```sh
 python src/evaluate.py
 
+##Requirements##
+Python 3.x
+TensorFlow
+NumPy
+Matplotlib
+Jupyter (for notebooks)
