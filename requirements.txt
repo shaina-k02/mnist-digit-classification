@@ -1,8 +1,8 @@
 
 ### requirements.txt
 
-```plaintext
-tensorflow
+
+tensorflow 2.x
 numpy
 matplotlib
 jupyter
