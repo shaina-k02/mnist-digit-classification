@@ -17,3 +17,14 @@ This project classifies handwritten digits from the MNIST dataset using a neural
    ```sh
    git clone https://github.com/yourusername/mnist-digit-classification.git
    cd mnist-digit-classification
+2. Install Dependencies
+   ```sh
+   pip install -r requirements.txt
+
+3. Run the training script
+   ```sh
+   python src/train.py
+
+4. Evaluate the Model
+```sh
+python src/evaluate.py
