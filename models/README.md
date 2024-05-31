@@ -1,4 +1,3 @@
-```
 # Models Directory
 
 This directory is used to store the trained models for the MNIST digit classification project. The models are saved in a format that can be easily loaded and used for evaluation and predictions.
