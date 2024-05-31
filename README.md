@@ -28,3 +28,4 @@ This project classifies handwritten digits from the MNIST dataset using a neural
 4. Evaluate the Model
 ```sh
 python src/evaluate.py
+
