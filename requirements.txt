@@ -1,1 +1,9 @@
 
+### requirements.txt
+
+```plaintext
+tensorflow
+numpy
+matplotlib
+jupyter
+
