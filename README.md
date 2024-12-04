@@ -1,6 +1,6 @@
 # MNIST Digit Classification
 
-This project demonstrates the classification of handwritten digits from the MNIST dataset using a neural network built with TensorFlow and Keras. The repository includes data preprocessing, model building, training, evaluation, and prediction components, organized in a clear and structured manner.
+This project demonstrates the classification of handwritten digits from the MNIST dataset using a neural network built with TensorFlow and Keras. Components include data preprocessing, model building, training, evaluation, and prediction components, organized in a clear and structured manner.
 ## Features
 
 - **Data Preprocessing**: Load and normalize the MNIST dataset.
